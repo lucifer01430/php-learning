@@ -4,13 +4,13 @@
 
 In Php language basically these types of operators are available 
 
-1. Arithmetic Operator
+1. Arithmetic Operator  
 2. Assignment Operator 
-3. Increment / Decrement Operator
-4. String Operator 
-5. Comparison Operator
-6. Logical Operator
-7. Array / Conditional Operator
+3. Comparison Operator
+4. Increment / Decrement Operator
+5. String Operator 
+6. Array / Conditional Operator
+7. Logical Operator
 
 */
 
@@ -66,5 +66,8 @@ echo "<br><hr>";
 //concatenation
 
 echo $str1.$str2;
+
+
+//Please refer Other files for next part of operators
 
 ?>
